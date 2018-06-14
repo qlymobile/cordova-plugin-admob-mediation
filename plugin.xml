@@ -10,7 +10,7 @@
     <platform name="android">
         <framework src="com.unity3d.ads:unity-ads:2.2.0" />
         <framework src="com.google.ads.mediation:unity:2.2.0.0" />
-        <framework src="com.facebook.android:audience-network-sdk:+" />
+        <framework src="com.facebook.android:audience-network-sdk:4.28.1" />
         <framework src="com.google.ads.mediation:facebook:+" />
         <!-- Prevents compilation error: https://developer.android.com/studio/build/multidex.html -->
         <!-- when add additional mediation plugins -->
